@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{AB96EF55-13FA-4061-9B9D-9663BB88E1E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="59" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Program.cs" line="330" offsetX="554" offsetY="4922" expression="i" liveUpdate="True" />
+    <Watch file="Program.cs" line="353" offsetX="556" offsetY="5277" expression="y" liveUpdate="False" />
+    <Watch file="Program.cs" line="350" offsetX="542" offsetY="5234" expression="xst" liveUpdate="False" />
+    <Watch file="Program.cs" line="355" offsetX="546" offsetY="5316" expression="y &gt; 2 || y &lt; 0" liveUpdate="False" />
+    <Watch file="Program.cs" line="287" offsetX="522" offsetY="4281" expression="InputCheck(y) &amp;&amp; InputCheck(x)" liveUpdate="False" />
+    <Watch file="Program.cs" line="253" offsetX="495" offsetY="3768" expression="InputCheck(y) &amp;&amp; InputCheck(x)" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

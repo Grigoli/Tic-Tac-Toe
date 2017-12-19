@@ -1,0 +1,16 @@
+/Users/gigavashakidze/Projects/Tic/bin/Debug/Tic.exe
+/Users/gigavashakidze/Projects/Tic/bin/Debug/Tic.pdb
+/Users/gigavashakidze/Projects/Tic/obj/x86/Debug/Tic.csproj.CoreCompileInputs.cache
+/Users/gigavashakidze/Projects/Tic/obj/x86/Debug/Tic.exe
+/Users/gigavashakidze/Projects/Tic/obj/x86/Debug/Tic.pdb
+/Users/gigavashakidze/Projects/Tic/bin/Debug/Newtonsoft.Json.dll
+/Users/gigavashakidze/Projects/Tic/bin/Debug/Newtonsoft.Json.xml
+/Users/gigavashakidze/Projects/Tic/obj/x86/Debug/Tic.csprojResolveAssemblyReference.cache
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/bin/Debug/Tic.exe
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/bin/Debug/Tic.pdb
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/bin/Debug/Newtonsoft.Json.dll
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/bin/Debug/Newtonsoft.Json.xml
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/obj/x86/Debug/Tic.csprojResolveAssemblyReference.cache
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/obj/x86/Debug/Tic.csproj.CoreCompileInputs.cache
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/obj/x86/Debug/Tic.exe
+/Users/gigavashakidze/Downloads/Vashakidze819818812 (3)/obj/x86/Debug/Tic.pdb
